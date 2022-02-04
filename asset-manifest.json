@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Live-Code-Editor/static/css/main.380db745.css",
-    "main.js": "/Live-Code-Editor/static/js/main.0ba062c8.js",
+    "main.js": "/Live-Code-Editor/static/js/main.880b7f21.js",
     "static/media/hero-img.png": "/Live-Code-Editor/static/media/hero-img.14dc8f7a4d4b3edb0402.png",
     "index.html": "/Live-Code-Editor/index.html",
     "static/media/shape-1.svg": "/Live-Code-Editor/static/media/shape-1.14eac0454e76b6258684c9442c3ce692.svg",
@@ -9,10 +9,10 @@
     "static/media/shape-3.svg": "/Live-Code-Editor/static/media/shape-3.63e593ae77274c64257dfe4065bcd965.svg",
     "static/media/shape-2.svg": "/Live-Code-Editor/static/media/shape-2.f2d172ea533839a33501547cccc827be.svg",
     "main.380db745.css.map": "/Live-Code-Editor/static/css/main.380db745.css.map",
-    "main.0ba062c8.js.map": "/Live-Code-Editor/static/js/main.0ba062c8.js.map"
+    "main.880b7f21.js.map": "/Live-Code-Editor/static/js/main.880b7f21.js.map"
   },
   "entrypoints": [
     "static/css/main.380db745.css",
-    "static/js/main.0ba062c8.js"
+    "static/js/main.880b7f21.js"
   ]
 }
